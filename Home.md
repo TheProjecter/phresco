@@ -1,0 +1,24 @@
+#Welcome to the Phresco wiki
+
+# Introduction #
+
+Phresco is everything that helps an engineering team deliver a social media project with predictable delivery timeline and quality.
+
+Phresco provides
+
+  1. an application development framework,
+  1. reusable design time and runtime components,
+  1. a web based toolset/dashboard to choose the right set of components and setup development environment for a new social media project,
+  1. out of the box integration with continuous integration servers, automated builds, unit testing frameworks, static code analysis tools,
+  1. and some more.
+
+In a nut shell we envisage Phresco to be THE framework and toolset that every social media project, independent of the target device, builds upon.
+
+# Details #
+
+Watch this space for more as the project gathers steam.
+
+
+--
+
+Last updated: 18-Nov-2010 00:22 IST
